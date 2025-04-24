@@ -23,7 +23,7 @@ Desenvolvimento de um aplicativo móvel para gerenciamento de consultas médicas
 
 2. Navegue até o diretório do projeto:
    ```bash
-   cd marcadorConsultas_CP2
+   cd checkpoint_marcadorDeConsultas
    ```
 
 3. Instale as dependências:
