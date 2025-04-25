@@ -9,7 +9,7 @@ Desenvolvimento de um aplicativo móvel para gerenciamento de consultas médicas
 ## Funcionalidades
 - **Agendamento de Consultas**: Permite o registro de novas consultas com data, hora e especialidade médica.
 - **Visualização de Consultas**: Exibe a lista das consultas agendadas, com status e infos do paciente.
-- **Edição e Cancelamento**: Possibilita a modificação e cancelamento de consultas agendadas.
+- **Edição e Cancelamento**: Possibilita a confirmação e cancelamento de consultas.
 
 ## Tecnologias Utilizadas
 **React Native | TypeScript | Expo**
