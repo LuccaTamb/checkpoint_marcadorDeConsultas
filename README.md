@@ -35,7 +35,4 @@ Desenvolvimento de um aplicativo móvel para gerenciamento de consultas médicas
    ```bash
    npx expo start
    ```
-
-5. Utilize o QR code gerado para abrir o aplicativo em seu dispositivo móvel.
-
 ---
